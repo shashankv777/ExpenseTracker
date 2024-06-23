@@ -25,4 +25,6 @@ The Expense Tracker is a  web application built using React that allows users to
   </li>
  </ol>
  
+## Note - The Expense Tracker Web application is built for the PC and Desktop users and not for mobile users
+ 
 ## Website Link -> <a href ="https://expense-tracker-murex-rho.vercel.app/">ExpenseTracker </a>
