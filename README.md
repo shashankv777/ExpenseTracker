@@ -1,5 +1,5 @@
 # Expense Tracker
-The Expense Tracker is a  web application built using React that allows users to track their expenses. It leverages React Router for navigation and utilizes local storage to persist data across sessions.
+The Expense Tracker is a  web application built using React that allows users to track their expenses. It leverages React-Router-DOM for navigation and handling multiple forms. It also utilizes local storage to persist data across sessions.
 
 ## How react helped me in building an efficient expense tracker web application?
 <ol>
